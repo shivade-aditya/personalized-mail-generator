@@ -2,7 +2,7 @@ Here's a README template for your GitHub repository based on your project:
 
 ---
 
-# Cold Email Generator for Job Postings
+# pesonalized Email Generator
 
 This project is designed to automate the process of generating cold emails for job postings. It scrapes job descriptions from user-provided URLs, extracts relevant job details, queries a portfolio of tech stacks and links from a Chroma vector store, and generates a personalized cold email to send to potential clients.
 
