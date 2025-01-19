@@ -12,7 +12,7 @@ job_link = input("Please enter the job posting link: ")
 # Initialize Groq Chat model
 llm = ChatGroq(
     temperature=0, 
-    groq_api_key='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', 
+    groq_api_key='YOUR API KEY', 
     model_name="llama-3.3-70b-versatile"
 )
 
